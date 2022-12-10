@@ -4,20 +4,20 @@ Maintainers: Fabio Rapposelli <fabio@vmware.com> (@frapposelli),
 GitRepo: https://github.com/vmware/photon-docker-image.git
 Directory: docker
 
-Tags: 4.0, 4.0-20220916, latest
+Tags: 4.0, 4.0-20221203, latest
 Architectures: amd64, arm64v8
-GitFetch: refs/heads/x86_64/4.0-20220916
-GitCommit: 381e27ba6477541e393caf89b27bb74103d90063
-arm64v8-GitFetch: refs/heads/aarch64/4.0-20220916
-arm64v8-GitCommit: 4269910b95a9df8be8270593323937f3a1a433e8
+GitFetch: refs/heads/x86_64/4.0-20221203
+GitCommit: 00932372f7e89a3ce6f3a1deeb7c7bbd4c523daf
+arm64v8-GitFetch: refs/heads/aarch64/4.0-20221203
+arm64v8-GitCommit: 1f516e3b5da476c4672af3aa79f351d9d128ed90
 
-Tags: 3.0, 3.0-20220916
+Tags: 3.0, 3.0-20221029
 Architectures: amd64, arm64v8
-GitFetch: refs/heads/x86_64/3.0-20220916
-GitCommit: fca8d4ac17ffa2dc0bd3ea3df2e2c70eafe4fadd
-arm64v8-GitFetch: refs/heads/aarch64/3.0-20220916
-arm64v8-GitCommit: a68414e285f3ffbaeec2e0f0dd718c7ec821a888
+GitFetch: refs/heads/x86_64/3.0-20221029
+GitCommit: 3f48db06f0175f69ecf27b83bde32410af466fed
+arm64v8-GitFetch: refs/heads/aarch64/3.0-20221029
+arm64v8-GitCommit: 2336527d851631548d4b7d8a6a5f9cab8b8bd49a
 
-Tags: 2.0, 2.0-20220910
-GitFetch: refs/heads/2.0-20220910
-GitCommit: a5fa7cb5fd291c04fa34ba924723b1e063078452
+Tags: 2.0, 2.0-20221029
+GitFetch: refs/heads/2.0-20221029
+GitCommit: 64d495744276da80fd53750146350e41d435ff79

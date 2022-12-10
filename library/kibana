@@ -4,17 +4,12 @@ Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
              Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
 GitRepo: https://github.com/docker-library/kibana.git
 
-Tags: 8.4.1
+Tags: 8.5.2
 Architectures: amd64, arm64v8
-GitCommit: 5ebd8dd2d2782bf109f51ce18146d8a259a86792
+GitCommit: e69ce229e1dc0e8363781e22f51aa2adb1dc8772
 Directory: 8
 
-Tags: 7.17.6
+Tags: 7.17.8
 Architectures: amd64, arm64v8
-GitCommit: cde42377b65bfe5040c87c10e5defe1137a84f25
+GitCommit: c98bb27941c6b2dafd6d963aab2b0cc9f0876315
 Directory: 7
-
-Tags: 6.8.23
-Architectures: amd64
-GitCommit: e344361c58744dd623753d9a45dc8502a279b942
-Directory: 6
